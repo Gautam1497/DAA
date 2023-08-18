@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
-class Stack<TT> {
+class Stack<T> {
     private int maxSize;
     private int top;
-    private TT[] stackArray;
+    private T[] stackArray;
 
     public Stack(int size) {
         maxSize = size;
         top = -1;
-        stackArray = (TT[]) new Object[maxSize];
+        stackArray = (T[]) new Object[maxSize];
     }
 
     public boolean isEmpty() {
@@ -19,7 +19,7 @@ class Stack<TT> {
         return top == maxSize - 1;
     }
 
-    public void push(TT value) {
+    public void push(T value) {
         if (!isFull()) {
             stackArray[++top] = value;
         } else {
@@ -27,9 +27,9 @@ class Stack<TT> {
         }
     }
 
-    public TT pop() {
+    public T pop() {
         if (!isEmpty()) {
-            TT poppedValue = stackArray[top--];
+            T poppedValue = stackArray[top--];
             return poppedValue;
         } else {
             System.out.println("Stack is empty. Cannot pop.");
@@ -37,7 +37,7 @@ class Stack<TT> {
         }
     }
 
-    public TT top() {
+    public T top() {
         if (!isEmpty()) {
             return stackArray[top];
         } else {
