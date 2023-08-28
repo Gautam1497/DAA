@@ -3,7 +3,7 @@
 ## Experiment 1: Stack Operations with Templates
 - **Aim:** Analyze stack operations (IsEmpty, IsFull, Push, Pop, Top) using templates.
 - **Description:** Implement a stack using templates and perform operations like push, pop, top, isEmpty, and isFull.
-- **Source Code:** [Experiment1.cpp](link_to_code)
+- **Source Code:** [Experiment1.cpp](Exp1.java)
 
 ## Experiment 2: Power Function with O(log n) Complexity
 - **Aim:** Implement the power function with O(log n) complexity.
