@@ -1,13 +1,52 @@
-# DAA
-Experiment 1: Analyze if stack Isempty, Isfull and if elements are present then return top element in stacks using templates and also perform push and pop operation in stack.__
-Experiment 2: Develop a  program for implementation of power function and determine that complexity should be O(log n) .__
-Experiment 3: Evaluate the complexity of the developed program to find frequency of elements in a given array.__
-Experiment 4: __
-       i.	Apply the concept of Linked list and write code to Insert and Delete an element at the beginning and end of  Singly Linked List. __
-       ii.	Apply the concept of Linked list and write code to Insert and Delete an element at the beginning and at end in Doubly and Circular Linked List.__
-Experiment 5: Sort a given set of elements using the Quick sort method and determine the    time required to sort the elements. Repeat the experiment for different values of n, the number of elements in the list to be sorted. The elements can be  read from a file or can be generated using the randonumber generator.__
-Experiment 6: Develop  a  program and analyze complexity to  implement subset-sum problem using Dynamic Programming.__
-Experiment 7: Develop  a  program and analyze complexity  to implement 0-1 Knapsack using Dynamic Programming.__
-Experiment 8: Develop  a  program and analyze complexity  to do a depth-first search (DFS) on an undirected graph. Implementing an application of DFS such as (i) to find the topological sort of a directed acyclic graph, OR (ii) to find a path from source to goal in a maze__
-Experiment 9: Develop  a  program and analyze complexity  to find shortest paths in a graph with positive edge weights using Dijkstra’s algorithm.__
-Experiment 10: Develop  a  program and analyze complexity  to find all occurrences of a pattern P in a given string S.__
+# Data Structures and Algorithms (DAA) Experiments
+
+## Experiment 1: Stack Operations with Templates
+- **Aim:** Analyze stack operations (IsEmpty, IsFull, Push, Pop, Top) using templates.
+- **Description:** Implement a stack using templates and perform operations like push, pop, top, isEmpty, and isFull.
+- **Source Code:** [Experiment1.cpp](link_to_code)
+
+## Experiment 2: Power Function with O(log n) Complexity
+- **Aim:** Implement the power function with O(log n) complexity.
+- **Description:** Develop a program to calculate the power of a number using an optimized approach with logarithmic complexity.
+- **Source Code:** [Experiment2.cpp](link_to_code)
+
+## Experiment 3: Frequency Count of Elements in an Array
+- **Aim:** Evaluate the complexity of finding element frequencies in an array.
+- **Description:** Implement a program to find the frequency of each element in a given array and analyze its complexity.
+- **Source Code:** [Experiment3.cpp](link_to_code)
+
+## Experiment 4: Linked List Operations (Singly, Doubly, Circular)
+- **Aim:** Apply linked list concepts for insertion and deletion.
+- **Description:** Write code to insert and delete elements at the beginning and end of singly linked lists, doubly linked lists, and circular linked lists.
+- **Source Code:** [Experiment4.cpp](link_to_code)
+
+## Experiment 5: Quick Sort Analysis
+- **Aim:** Sort elements using the Quick Sort method and analyze time complexity.
+- **Description:** Implement Quick Sort to sort a list of elements and measure the time required for different input sizes.
+- **Source Code:** [Experiment5.cpp](link_to_code)
+
+## Experiment 6: Subset-Sum Problem with Dynamic Programming
+- **Aim:** Implement the subset-sum problem using Dynamic Programming.
+- **Description:** Develop a program to solve the subset-sum problem and analyze its complexity using a dynamic programming approach.
+- **Source Code:** [Experiment6.cpp](link_to_code)
+
+## Experiment 7: 0-1 Knapsack Problem with Dynamic Programming
+- **Aim:** Implement the 0-1 Knapsack problem using Dynamic Programming.
+- **Description:** Develop a program to solve the 0-1 knapsack problem and analyze its complexity using dynamic programming.
+- **Source Code:** [Experiment7.cpp](link_to_code)
+
+## Experiment 8: Depth-First Search (DFS) on an Undirected Graph
+- **Aim:** Implement DFS on an undirected graph and apply it to find paths.
+- **Description:** Develop a program for depth-first search and apply it to find topological sorts or paths in a maze.
+- **Source Code:** [Experiment8.cpp](link_to_code)
+
+## Experiment 9: Dijkstra’s Algorithm for Shortest Paths
+- **Aim:** Implement Dijkstra’s algorithm for finding shortest paths in a graph.
+- **Description:** Develop a program to find shortest paths using Dijkstra's algorithm and analyze its complexity.
+- **Source Code:** [Experiment9.cpp](link_to_code)
+
+## Experiment 10: Pattern Matching in Strings
+- **Aim:** Implement pattern matching for finding occurrences in a string.
+- **Description:** Develop a program to find all occurrences of a pattern in a given string and analyze its complexity.
+- **Source Code:** [Experiment10.cpp](link_to_code)
+
