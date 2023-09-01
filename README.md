@@ -8,12 +8,12 @@
 ## Experiment 2: Power Function with O(log n) Complexity
 - **Aim:** Implement the power function with O(log n) complexity.
 - **Description:** Develop a program to calculate the power of a number using an optimized approach with logarithmic complexity.
-- **Source Code:** [Experiment2.cpp](link_to_code)
+- **Source Code:** [Experiment2.cpp]([link_to_code](https://github.com/Gautamsingh1497/DAA/blob/master/Exp2.java))
 
 ## Experiment 3: Frequency Count of Elements in an Array
 - **Aim:** Evaluate the complexity of finding element frequencies in an array.
 - **Description:** Implement a program to find the frequency of each element in a given array and analyze its complexity.
-- **Source Code:** [Experiment3.cpp](link_to_code)
+- **Source Code:** [Experiment3.cpp]([link_to_code](https://github.com/Gautamsingh1497/DAA/blob/master/Exp3.java))
 
 ## Experiment 4: Linked List Operations (Singly, Doubly, Circular)
 - **Aim:** Apply linked list concepts for insertion and deletion.
